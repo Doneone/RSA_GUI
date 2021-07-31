@@ -17,5 +17,7 @@ python3 rsa_gui.py
 create rsa keys
 
 <img width="367" alt="截屏2021-07-31 下午9 40 13" src="https://user-images.githubusercontent.com/28868655/127741753-781365e0-59dc-41c5-8e5d-8028089766f6.png">
-choice public key path,click "加密"
-choice public key path,click "解密"
+
+choice public key path,click "加密"；
+
+choice public key path,click "解密"；
