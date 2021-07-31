@@ -1,9 +1,13 @@
 # RSA_GUI
 a rsa encode decode python tools
 # install
+
 install python3
+
 install pip3
+
 pip3 install rsa
+
 # run
 
 python3 rsa_gui.py
