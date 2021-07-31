@@ -1,5 +1,5 @@
 # RSA_GUI
-a rsa encode decode python tools
+a rsa encode/decode python tools
 # install
 
 install python3
@@ -13,7 +13,6 @@ pip3 install rsa
 python3 rsa_gui.py
 
 <img width="365" alt="截屏2021-07-31 下午9 40 34" src="https://user-images.githubusercontent.com/28868655/127741764-974485cc-a355-4cda-bde3-f7ad30fcea1b.png">
-# use
 
 create rsa keys
 
