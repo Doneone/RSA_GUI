@@ -20,4 +20,4 @@ create rsa keys
 
 choice public key path,click "加密"；
 
-choice public key path,click "解密"；
+choice private key path,click "解密"；
